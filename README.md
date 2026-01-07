@@ -31,6 +31,8 @@ manifest.json: Configuration and permissions for the extension.
 content.js: The JavaScript logic that manipulates the webpage text.
 
 🚀 Future Roadmap
+
+
 [ ] Add a popup menu to toggle the effect on/off.
 
 [ ] Add a counter to show how many cookies have been "eaten" (replaced) on a page.
