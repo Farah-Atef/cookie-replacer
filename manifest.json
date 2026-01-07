@@ -1,16 +1,16 @@
 {
   "manifest_version": 3,
   "name": "Cookie Emoji Replacer",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Replaces the word 'cookie' with 🍪",
   "browser_specific_settings": {
     "gecko": {
-      "id": "cookie-replacer@yourname.com",
-      "strict_min_version": "109.0",
-      "data_collection_permissions": {
-        "is_prohibited": true
-      }
+      "id": "cookie-replacer@farah.com",
+      "strict_min_version": "109.0"
     }
+  },
+  "data_collection_permissions": {
+    "required": ["is_prohibited"]
   },
   "content_scripts": [
     {
