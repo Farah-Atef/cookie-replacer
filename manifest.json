@@ -5,11 +5,12 @@
   "description": "Replaces the word 'cookie' with 🍪",
   "browser_specific_settings": {
     "gecko": {
-      "id": "cookie-replacer@yourname.com"
+      "id": "cookie-replacer@yourname.com",
+      "strict_min_version": "109.0",
+      "data_collection_permissions": {
+        "is_prohibited": true
+      }
     }
-  },
-  "data_collection_permissions": {
-    "is_prohibited": true
   },
   "content_scripts": [
     {
