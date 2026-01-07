@@ -3,6 +3,14 @@
   "name": "Cookie Emoji Replacer",
   "version": "1.0",
   "description": "Replaces the word 'cookie' with 🍪",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "cookie-replacer@yourname.com"
+    }
+  },
+  "data_collection_permissions": {
+    "is_prohibited": true
+  },
   "content_scripts": [
     {
       "matches": ["<all_urls>"],

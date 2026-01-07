@@ -38,3 +38,14 @@ content.js: The JavaScript logic that manipulates the webpage text.
 [ ] Add a counter to show how many cookies have been "eaten" (replaced) on a page.
 
 [ ] Support for more treat-related keywords!
+dccddc
+cdcdc
+dcddc
+ff
+dfdfd
+
+cfvfv
+cdccd
+cdcdccd
+dccccddccd
+
